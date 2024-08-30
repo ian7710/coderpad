@@ -1,3 +1,5 @@
+package ArrayAndStringManipulation;
+
 public class ReverseString {
 
     // The main method serves as the entry point for the program
